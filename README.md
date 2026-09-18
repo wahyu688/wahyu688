@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wahyu A Barmawi</h1>
 <h3 align="center">Backend Developer building scalable APIs & databases · CS @ Binus University · Part of NATY (Nusantara Technology)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyu688&label=Profile%20views&color=0e75b6&style=flat" alt="wahyu688" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyu688&label=Profile%20views&color=0e75b6&style=flat&base=500" alt="wahyu688" /> </p>
 
 - 🔭 I’m currently working on [NATY — Nusantara Technology](https://natynext.com)
 
